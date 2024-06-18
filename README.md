@@ -15,7 +15,7 @@ Select the types of characters to include by checking the respective checkboxes.
 Click the "Generate Password" button to generate a password based on your selections.
 The generated password will be displayed below the button.<br>
 
-Technologies Used
-HTML5
-CSS3
-JavaScript
+Technologies Used <br>
+HTML5 <br>
+CSS3 <br>
+JavaScript <br>
