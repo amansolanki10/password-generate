@@ -51,8 +51,4 @@ function generatepassword(
   return password;
 }
 
-document.addEventListener("contextmenu",function(event){
-  alert("Inspect Are Not Allowed");
-      event.preventDefault();
 
-})
